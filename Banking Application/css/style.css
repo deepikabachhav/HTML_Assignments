@@ -1,0 +1,75 @@
+body{
+    background-color:bisque;
+}
+.bar2
+{
+position:relative;
+background-color:burlywood;
+left:0%;
+right:5%;
+font-size:21px;
+float:right;
+margin-top:-4.5%;
+}
+.bar1{
+background-color: black;
+position: relative;
+top: 43px;
+left:-10px;
+right:-17px;
+font-size:21px;
+float:right;
+margin:-5px;
+}
+.header
+{
+background-color: aquamarine;
+height:120px;
+font-size: 20px;
+}
+.logo 
+{
+width:250px;
+height:100px;
+position:relative;
+left:2px;
+bottom: 75px;
+background-color: aquamarine;
+}
+.logo2 
+{
+width:1425px;
+height:500px;
+position: absolute;
+left:10px;
+top: 175px;
+}
+.footer
+{
+position: absolute;
+bottom:0%;
+background-color: darkgray;
+font-size: 14px;
+width: 99%;
+}       
+.topright{position:absolute;
+    bottom:695px;
+    right:0%;
+    font-size:12px;;
+     width:500px;
+    padding: 10px;
+    margin:30px;
+
+ }
+.menu{
+    color:whitesmoke; 
+    font-size:14px;
+    right: 30%;
+    
+    
+}
+.topleft{
+    position:absolute;
+    top:25%;
+
+}
